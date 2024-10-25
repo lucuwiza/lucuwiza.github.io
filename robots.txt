@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://lucuwiza.github.io/sitemap/sitemap_index.lucuwiza
+Sitemap: https://lucuwiza.github.io/SIM/sitemap_index.lucuwiza
+Sitemap: https://lucuwiza.github.io/QGK/sitemap_index.lucuwiza
+Sitemap: https://lucuwiza.github.io/ZeW/sitemap_index.lucuwiza
+Sitemap: https://lucuwiza.github.io/BIY/sitemap_index.lucuwiza
+Sitemap: https://lucuwiza.github.io/tGS/sitemap_index.lucuwiza
+Sitemap: https://lucuwiza.github.io/jAv/sitemap_index.lucuwiza
+Sitemap: https://lucuwiza.github.io/KgD/sitemap_index.lucuwiza
+Sitemap: https://lucuwiza.github.io/kwy/sitemap_index.lucuwiza
+Sitemap: https://lucuwiza.github.io/gfR/sitemap_index.lucuwiza
+Sitemap: https://lucuwiza.github.io/aGT/sitemap_index.lucuwiza
+Sitemap: https://lucuwiza.github.io/Fcg/sitemap_index.lucuwiza
+Sitemap: https://lucuwiza.github.io/ONL/sitemap_index.lucuwiza
+Sitemap: https://lucuwiza.github.io/pBc/sitemap_index.lucuwiza
+Sitemap: https://lucuwiza.github.io/yrx/sitemap_index.lucuwiza
+Sitemap: https://lucuwiza.github.io/Rmj/sitemap_index.lucuwiza
+Sitemap: https://lucuwiza.github.io/Xxv/sitemap_index.lucuwiza
+Sitemap: https://lucuwiza.github.io/WJU/sitemap_index.lucuwiza
+Sitemap: https://lucuwiza.github.io/afS/sitemap_index.lucuwiza
+Sitemap: https://lucuwiza.github.io/Msb/sitemap_index.lucuwiza
+Sitemap: https://lucuwiza.github.io/NvS/sitemap_index.lucuwiza
